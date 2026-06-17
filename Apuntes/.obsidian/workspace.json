@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "fd0d3cb7f9fd3afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d3fb75a7c41d461",
+        "type": "tabs",
+        "dimension": 32.355595667870034,
+        "children": [
+          {
+            "id": "9e2c37f9b06ff3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VVS/Promela.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Promela"
+            }
+          }
+        ]
+      },
+      {
+        "id": "18768ea0c4766386",
+        "type": "tabs",
+        "dimension": 67.64440433212997,
+        "children": [
+          {
+            "id": "e3b2e95ae58f93b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "675dbf1ae4ce2b94",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15052b6af5103e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0830b8ec49dfa76e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d12c62ab8c4c7381",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3d1b510b8b452f1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "033f034e9ac99a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d32940ffb7b28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a25cc57b89511d98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "5b29bfb7dfaea9b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "90305b1e0801b06c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "632f49bb85aedd7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "d86ed3acc74f4c20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "e3b2e95ae58f93b7",
+  "lastOpenFiles": [
+    "VVS/Primera Parte (Gilberto).md",
+    "VVS/Promela.md",
+    "VVS/Segunda Parte (Pedro).md",
+    "VVS/Temario VVS.md",
+    "VVS/LTL.md",
+    "VVS/PVS.md",
+    "Indice.md",
+    "VVS/Calculo de Secuentes.md",
+    "Imagenes/reglas_equivalencia.png",
+    "Imagenes/reglas_implicacion.png",
+    "Imagenes/reglas_conjuncion.png",
+    "Imagenes/reglas_disyuncion.png",
+    "Imagenes/reglas_negacion.png",
+    "Imagenes/Reglas_negacion.png",
+    "Imagenes/reglas_estructurales.png",
+    "reglas_estructurales.png",
+    "Imagenes/representacion_reglas_de_secuentes.png",
+    "Imagenes",
+    "representacion_reglas_de_secuentes.png",
+    "VVS.md",
+    "run/media/system/Juegos/Obsidian/Apuntes/VVS.md",
+    "run/media/system/Juegos/Obsidian/Apuntes",
+    "run/media/system/Juegos/Obsidian",
+    "run/media/system/Juegos",
+    "run/media/system",
+    "run/media",
+    "run",
+    "VVS",
+    "VVs"
+  ]
+}
