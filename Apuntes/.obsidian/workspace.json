@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VVS/Promela.md",
+                "file": "VVS/PVS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promela"
+              "title": "PVS"
             }
           }
         ]
@@ -200,25 +200,24 @@
   },
   "active": "9e2c37f9b06ff3a2",
   "lastOpenFiles": [
-    "Imagenes/ejemplo_do_promela.png",
-    "Imagenes/ejemplo_if_promela.png",
-    "ejemplo_if_promela.png",
-    "VVS/Calculo de Secuentes.md",
-    "VVS/PVS.md",
-    "VVS/Promela.md",
-    "Imagenes/reglas_estructurales.png",
-    "VVS/LTL.md",
     "VVS/Primera Parte (Gilberto).md",
-    "VVS/Segunda Parte (Pedro).md",
+    "VVS/Calculo de Secuentes.md",
     "VVS/Temario VVS.md",
     "Indice.md",
-    "Imagenes/reglas_equivalencia.png",
-    "Imagenes/reglas_implicacion.png",
+    "VVS/LTL.md",
+    "Imagenes/ejemplo_do_promela.png",
+    "Imagenes/ejemplo_if_promela.png",
     "Imagenes/reglas_conjuncion.png",
     "Imagenes/reglas_disyuncion.png",
+    "Imagenes/reglas_equivalencia.png",
+    "Imagenes/reglas_estructurales.png",
+    "Imagenes/representacion_reglas_de_secuentes.png",
     "Imagenes/reglas_negacion.png",
-    "Imagenes/Reglas_negacion.png",
-    "reglas_estructurales.png",
+    "Imagenes/reglas_implicacion.png",
+    "VVS/Promela.md",
+    "VVS/PVS.md",
+    "VVS/Segunda Parte (Pedro).md",
+    "ejemplo_if_promela.png",
     "Imagenes",
     "VVS.md",
     "run/media/system/Juegos/Obsidian/Apuntes/VVS.md",
