@@ -6,4 +6,5 @@ Profesores:
 - Gilberto
 - Pedro
 - Laura
+
 Apuntes realizados en base a los contenidos impartidos por ellos en el curso.
