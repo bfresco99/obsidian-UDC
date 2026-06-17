@@ -6,7 +6,7 @@
       {
         "id": "7d3fb75a7c41d461",
         "type": "tabs",
-        "dimension": 32.355595667870034,
+        "dimension": 44.53971119133574,
         "children": [
           {
             "id": "9e2c37f9b06ff3a2",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "18768ea0c4766386",
+        "id": "c1ac0f9a92c20714",
         "type": "tabs",
-        "dimension": 67.64440433212997,
+        "dimension": 55.46028880866426,
         "children": [
           {
-            "id": "e3b2e95ae58f93b7",
+            "id": "0eba7a40fdad7b2e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -198,27 +198,28 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e3b2e95ae58f93b7",
+  "active": "9e2c37f9b06ff3a2",
   "lastOpenFiles": [
-    "VVS/Primera Parte (Gilberto).md",
+    "Imagenes/ejemplo_do_promela.png",
+    "Imagenes/ejemplo_if_promela.png",
+    "ejemplo_if_promela.png",
+    "VVS/Calculo de Secuentes.md",
+    "VVS/PVS.md",
     "VVS/Promela.md",
+    "Imagenes/reglas_estructurales.png",
+    "VVS/LTL.md",
+    "VVS/Primera Parte (Gilberto).md",
     "VVS/Segunda Parte (Pedro).md",
     "VVS/Temario VVS.md",
-    "VVS/LTL.md",
-    "VVS/PVS.md",
     "Indice.md",
-    "VVS/Calculo de Secuentes.md",
     "Imagenes/reglas_equivalencia.png",
     "Imagenes/reglas_implicacion.png",
     "Imagenes/reglas_conjuncion.png",
     "Imagenes/reglas_disyuncion.png",
     "Imagenes/reglas_negacion.png",
     "Imagenes/Reglas_negacion.png",
-    "Imagenes/reglas_estructurales.png",
     "reglas_estructurales.png",
-    "Imagenes/representacion_reglas_de_secuentes.png",
     "Imagenes",
-    "representacion_reglas_de_secuentes.png",
     "VVS.md",
     "run/media/system/Juegos/Obsidian/Apuntes/VVS.md",
     "run/media/system/Juegos/Obsidian/Apuntes",
