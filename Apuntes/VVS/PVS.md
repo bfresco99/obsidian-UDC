@@ -36,3 +36,22 @@ Aplica `(prop)` o `(ground)`. Si el secuente está bien planteado y realizaste l
 **5. Navegación entre subgoles: Solo si el paso anterior ramificó.**
 
 Si `(split)` o `(prop)` generaron múltiples subramas, usa `(postpone)` para dejar el subgol actual de lado y saltar al siguiente si te encuentras encallado.
+
+### Ejemplos con ejercicios de clase
+
+**EJ2 de la práctica**
+Despues de aplicar el comando "skolem!" para inicializar variables y el comando "expand" en cada una de las definiciones.
+
+[[flatten_inicial.png]]
+
+Aplicamos otro "skolem!" para librarnos del FORALL en el sucesor.
+
+[[skolem_sucesor.png]]
+
+Posteriormente, al sustituir por terminos en los antecesores, optenemos los FORALL instanciados con los valores indicados.
+
+[[instanciacion_antecesores.png]]
+
+Ejecutamos un comando "split" y nos apareceran 3 subramas. Se resuelven simplemente ejecutando el comando "flatten" 2 veces para deshacer los condicionales de los sucesores en las 2 primeras subramas. La tercera se resuelve de manera automatica.
+
+Mensaje de Q.E.D.

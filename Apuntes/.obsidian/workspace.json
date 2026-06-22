@@ -6,7 +6,7 @@
       {
         "id": "7d3fb75a7c41d461",
         "type": "tabs",
-        "dimension": 44.53971119133574,
+        "dimension": 44.53971119133573,
         "children": [
           {
             "id": "9e2c37f9b06ff3a2",
@@ -27,7 +27,7 @@
       {
         "id": "c1ac0f9a92c20714",
         "type": "tabs",
-        "dimension": 55.46028880866426,
+        "dimension": 55.46028880866427,
         "children": [
           {
             "id": "0eba7a40fdad7b2e",
@@ -200,11 +200,17 @@
   },
   "active": "9e2c37f9b06ff3a2",
   "lastOpenFiles": [
-    "VVS/Primera Parte (Gilberto).md",
-    "VVS/Calculo de Secuentes.md",
-    "VVS/Temario VVS.md",
-    "Indice.md",
+    "Imagenes/instanciacion_antecesores.png",
+    "Imagenes/skolem_sucesor.png",
+    "Imagenes/flatten_inicial.png",
+    "VVS/PVS.md",
     "VVS/LTL.md",
+    "VVS/Segunda Parte (Pedro).md",
+    "VVS/Promela.md",
+    "VVS/Temario VVS.md",
+    "VVS/Calculo de Secuentes.md",
+    "VVS/Primera Parte (Gilberto).md",
+    "Indice.md",
     "Imagenes/ejemplo_do_promela.png",
     "Imagenes/ejemplo_if_promela.png",
     "Imagenes/reglas_conjuncion.png",
@@ -213,11 +219,6 @@
     "Imagenes/reglas_estructurales.png",
     "Imagenes/representacion_reglas_de_secuentes.png",
     "Imagenes/reglas_negacion.png",
-    "Imagenes/reglas_implicacion.png",
-    "VVS/Promela.md",
-    "VVS/PVS.md",
-    "VVS/Segunda Parte (Pedro).md",
-    "ejemplo_if_promela.png",
     "Imagenes",
     "VVS.md",
     "run/media/system/Juegos/Obsidian/Apuntes/VVS.md",
