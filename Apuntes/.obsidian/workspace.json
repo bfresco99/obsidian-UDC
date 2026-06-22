@@ -14,15 +14,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VVS/PVS.md",
+                "file": "Indice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PVS"
+              "title": "Indice"
+            }
+          },
+          {
+            "id": "044b947fd4b58ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FD/Tema 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema 3"
+            }
+          },
+          {
+            "id": "d8c5814e3f3cd307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FD/Temario FD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temario FD"
+            }
+          },
+          {
+            "id": "ad19cd62112d37aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FD/Tema 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema 2"
+            }
+          },
+          {
+            "id": "aaf188d02be676b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FD/Tema 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema 2"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "c1ac0f9a92c20714",
@@ -198,19 +255,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9e2c37f9b06ff3a2",
+  "active": "aaf188d02be676b6",
   "lastOpenFiles": [
+    "FD/Tema 1.md",
+    "FD/Tema 3.md",
+    "FD/Temario FD.md",
+    "Indice.md",
+    "VVS/Temario VVS.md",
+    "FD/Tema 2.md",
+    "FD",
+    "VVS/PVS.md",
     "Imagenes/instanciacion_antecesores.png",
     "Imagenes/skolem_sucesor.png",
     "Imagenes/flatten_inicial.png",
-    "VVS/PVS.md",
     "VVS/LTL.md",
     "VVS/Segunda Parte (Pedro).md",
     "VVS/Promela.md",
-    "VVS/Temario VVS.md",
     "VVS/Calculo de Secuentes.md",
     "VVS/Primera Parte (Gilberto).md",
-    "Indice.md",
     "Imagenes/ejemplo_do_promela.png",
     "Imagenes/ejemplo_if_promela.png",
     "Imagenes/reglas_conjuncion.png",
@@ -218,7 +280,6 @@
     "Imagenes/reglas_equivalencia.png",
     "Imagenes/reglas_estructurales.png",
     "Imagenes/representacion_reglas_de_secuentes.png",
-    "Imagenes/reglas_negacion.png",
     "Imagenes",
     "VVS.md",
     "run/media/system/Juegos/Obsidian/Apuntes/VVS.md",
