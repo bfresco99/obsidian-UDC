@@ -34,8 +34,7 @@ Para optimizar el uso de un ITS se recomiendan las siguientes pautas:
     
 - **Adaptarse al flujo de trabajo del equipo:** Seguir un ciclo de vida claro: Crear $\rightarrow$ Priorizar/Planificar $\rightarrow$ Asignar recursos $\rightarrow$ Implementar/Liberar $\rightarrow$ Cerrar.
     
-- **Integración con la gestión de cambios:** Vincular el sistema de gestión de problemas con los sistemas de control de versiones (SCM) para un rastreo continuo.
-    
+- **Integración con la gestión de cambios:** Vincular el sistema de gestión de problemas con los sistemas de control de versiones (SCM) para un rastreo continuo.    
 
 > **Ejemplos de ITS comunes:** Bugzilla, Jira, Trac, Redmine/ChiliProject, Lighthouse, Sifter, entre otros.
 
