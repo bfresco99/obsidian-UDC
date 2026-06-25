@@ -8,3 +8,8 @@ Profesores:
 - Laura
 
 Apuntes realizados en base a los contenidos impartidos por ellos en el curso.
+
+## Información FD:
+Cursado en el curso 2025-2026.
+Profesores:
+- Parapar
